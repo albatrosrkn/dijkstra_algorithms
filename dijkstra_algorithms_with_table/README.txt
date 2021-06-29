@@ -1,0 +1,2 @@
+Proje Codeblocks ortamında yazılmıştır.Proje dili c++'dır.Proje exe çalıştırıldığında kullanıcıdan okutulmak istenen dosyanın .txt ile beraber ismi istenmektedir(Örn,right1.txt).
+Dosya ismi girildikten sonra program dijkstra tablosunu oluşturmaktadır.Çalıştırılırken main.cpp ve dijkstra.txt nin bulunduğu dosyanın içerisinde okutulmak istenen dosyalarda olmalıdır.
