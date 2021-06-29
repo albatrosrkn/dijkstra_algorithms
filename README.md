@@ -1,0 +1,2 @@
+# dijkstra_algorithms
+The project is written in a Codeblocks environment. The project language is c  . When the project exe is run, the user is prompted for the name of the file to be read along with the .txt (e.g., right1.txt).After entering the file name, the program creates the dijkstra table. When running.cpp and .txt file containing the other file, it must be in the files that want to be read.
